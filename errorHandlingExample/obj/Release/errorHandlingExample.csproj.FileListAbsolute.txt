@@ -1,0 +1,5 @@
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\bin\errorHandlingExample.dll.config
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\bin\errorHandlingExample.dll
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\bin\errorHandlingExample.pdb
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\obj\Release\errorHandlingExample.dll
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\obj\Release\errorHandlingExample.pdb

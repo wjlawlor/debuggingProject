@@ -1,0 +1,6 @@
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\bin\errorHandlingExample.dll.config
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\bin\errorHandlingExample.dll
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\bin\errorHandlingExample.pdb
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\obj\Debug\errorHandlingExample.csprojResolveAssemblyReference.cache
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\obj\Debug\errorHandlingExample.dll
+C:\Users\Bill\Documents\W3D4 Class\traceDebugProject\errorHandlingExample\errorHandlingExample\obj\Debug\errorHandlingExample.pdb
